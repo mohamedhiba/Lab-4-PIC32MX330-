@@ -1,20 +1,4 @@
-None selected 
 
-Skip to content
-Using Gmail with screen readers
-
-1 of 20,637
-(no subject)
-Inbox
-
-MIN A ZAW
-Attachments
-10:07 AM (3 minutes ago)
-to ZHIQIAN, me
-
-
- One attachment
-  •  Scanned by Gmail
 /* ************************************************************************** */
 /** Create a DELAY based on a Timer1 interrupt                                */
 /* ************************************************************************** */
@@ -179,5 +163,4 @@ void __ISR(_TIMER_1_VECTOR, IPL2SOFT) Timer1Handler(void)
     );
 }
 //END OF PROGRAM
-lab4 done.txt
-Displaying lab4 done.txt.
+
